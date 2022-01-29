@@ -1,7 +1,4 @@
 {
-    "token": "",
-    "show_quotes": false,
-    "fetch_opentrivia_catalog": false,
     "trivia_categories":
     [
         [
@@ -129,6 +126,16 @@
                 "id": 81,
                 "name": "Java",
                 "category": "Software Engineering",
+                "style": 2,
+                "version": 1,
+                "url": ""
+            }
+        ],
+        [
+            {
+                "id": 91,
+                "name": "Bible",
+                "category": "General",
                 "style": 2,
                 "version": 1,
                 "url": ""
